@@ -52,7 +52,6 @@ I had to add the collowing to the body:
   ```
 
 I assume this is due to me applying the display:flex to the body. Will clarify whether this is the case in the next project I undertake.
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 ### Continued development
 
